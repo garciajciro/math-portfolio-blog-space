@@ -1,0 +1,5 @@
+# Copy this file to config.toml and set your project ID.
+# Get project_id from Supabase Dashboard URL or Settings → General.
+# Do not commit config.toml (it is gitignored).
+
+project_id = "your-project-ref"
